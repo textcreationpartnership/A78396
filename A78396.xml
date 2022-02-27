@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cavalliers advice to his Maiesty, with his Majesties answer to their desires, together with his intentions for the avoyding of my Lord of Essex his approach neere his person. Also certain propositions propounded by the cavalliers unto his Majesty, with his answer to the same; which being not correspondent to their desire, therefore many of them left him: all which truly gathered and compacted out of a letter sent from Coventry to a citizen of London. VVith the relation of Oxford schollers, shewing how many of them were taken, and how they were taken, by London troopers: together with the designe they thought to have used at Christ-Church gate to our souldiers, and how they were prevented. Likewise the resolution of two hundred Scots landed at Dover Castle, with their witty inventions used to the overthrow of many of the cavalliers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78396</idno>
+            <idno type="STC">Wing C1565</idno>
+            <idno type="STC">Thomason E117_15</idno>
+            <idno type="STC">ESTC R17961</idno>
+            <idno type="EEBO-CITATION">99860314</idno>
+            <idno type="PROQUEST">99860314</idno>
+            <idno type="VID">156073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156073)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cavalliers advice to his Maiesty, with his Majesties answer to their desires, together with his intentions for the avoyding of my Lord of Essex his approach neere his person. Also certain propositions propounded by the cavalliers unto his Majesty, with his answer to the same; which being not correspondent to their desire, therefore many of them left him: all which truly gathered and compacted out of a letter sent from Coventry to a citizen of London. VVith the relation of Oxford schollers, shewing how many of them were taken, and how they were taken, by London troopers: together with the designe they thought to have used at Christ-Church gate to our souldiers, and how they were prevented. Likewise the resolution of two hundred Scots landed at Dover Castle, with their witty inventions used to the overthrow of many of the cavalliers.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Banks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Sept: 16th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156073:1"/>
+            <!-- PDF PAGE 90 -->
+            <pb facs="tcp:156073:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>
+               <hi>The Cavalliers</hi> Advice to his Maieſty, with his Majeſties Anſwer to their deſires, together with his inten<g ref="char:EOLhyphen"/>tions for the avoyding of my Lord of Eſſex his approach neere his Perſon.</p>
+            <p>Alſo certain Propoſitions pro<g ref="char:EOLhyphen"/>pounded by the Cavalliers unto his Maje<g ref="char:EOLhyphen"/>ſty, with his Anſwer to the ſame; which being not correſpondent to their deſire, therefore many of them left him: all which truely gathered and com<g ref="char:EOLhyphen"/>pacted out of a Letter ſent from Coventry to a Citizen of London.</p>
+            <p>VVith the relation of Oxford Schollers, ſhewing how many of them were taken, and how they were taken, by Lon<g ref="char:EOLhyphen"/>don Troopers: Together with the deſigne they thought to have uſed at Chriſt-Church gate to our ſoul<g ref="char:EOLhyphen"/>diers, and how they were prevented.</p>
+            <p>Likewiſe the Reſolution of two hundred Scots landed at Dover Caſtle, with their witty inventions uſed to the overthrow of many of the Cavalliers.</p>
+            <p>
+               <date>
+                  <add>Sept: 16<hi rend="sup">th</hi>
+                     <g ref="char:punc">▪</g>
+                  </add>
+               </date>Printed at London for <hi>Thomas Banks.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156073:2"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:156073:2"/>
+            <!-- PDF PAGE 91 -->
+            <head>THE Cavalliers advice to his Maje<g ref="char:EOLhyphen"/>ſty, together with his anſwer to their de<g ref="char:EOLhyphen"/>ſires. Alſo his Majeſties Intentions for the avoiding of my Lord of Eſſex his approach with certain Propoſitions propounded by the Caval<g ref="char:EOLhyphen"/>liers unto His Majeſty, concerning the procure<g ref="char:EOLhyphen"/>ment of their generall pardon, all which tru<g ref="char:EOLhyphen"/>ly gathered and compacted out of a let<g ref="char:EOLhyphen"/>ter ſent from <hi>Coventry,</hi> to a Ci<g ref="char:EOLhyphen"/>zen of LONDON.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Cavalliers having Intelligence of my Lord of Eſſex, his comming towards them and knowing themſelves to be fare to weake to oppoſe ſo great an Army as they ſuppoſe he would bring along with him, therefore they thought it meete amongſt themſelves to Petition. and deſire his Majeſty for the ſafety of their perſons: to be pleaſed to take to his royal conſiderration for the obtayning of ſome meanes for their ſafer protection, and as for their parts they knew noe better way then for his Majeſty to Croſſe the Sea: and crave the aſſiſtance
+<pb n="2" facs="tcp:156073:3"/>
+               <!-- PDF PAGE 92 -->of forraigne Forces, his Majeſty hearing of their petition ſeemd much to diſlike of it, alleadging that were no better then for to avoid <hi>Scylla,</hi> and fall into <hi>Charybdis,</hi> therefore His Majeſty after a ſmall contemplation reſolved them what he would do, which was to effect, that hee would remove all his Forces by degrees unto Wales to Loyd-loo Caſtle, where he well knew he ſhould finde many faithfull and truſty perſons, eſpecially my Lord of Carbery, and whatſoever power and Forces hee could rayſe, likewiſe alleadging that the mountaines and hills would be cumberſome for my Lord of Eſſex and his horſemen to come over, eſpecially with their Ammunition; but yet with all this the Cavalliers were not throughly ſatisfied, for their wicked guilty Conſciences harboured ſtill a jealouſie of future dangers, therefore they urged cer<g ref="char:EOLhyphen"/>taine Propoſitions to his Majeſty, of which the chiefe were theſe three particulars. Firſt, that if His Majeſty would not with prone willing<g ref="char:EOLhyphen"/>neſſe condeſcend to their deſire, he would be pleaſed to continue in the ſame ſtedfaſt reſolutions (to wit) adventure and undergoe all dangers whatſoever (without any yielding) as they would doe, or that in caſe if his Majeſtie did unite himſelfe with His both Houſes of Parliament, he would be pleaſed to obtaine them a generall pardon for all crimes what<g ref="char:EOLhyphen"/>ſoever that may be laid to their charge, the ſecond propoſition and de<g ref="char:EOLhyphen"/>mand was, that ſeeing they had adventured both their lives and fortunes in His Majeſties behalfe and ſervice to the prejudice and danger of their utter ruine, that His Majeſty would be pleaſed in conſideration thereof amply to reward them for their ſaid adventure, and if that in caſe His Majeſty were not of power ſufficient to accompliſh the ſame to ſo great a number, that then he would be pleaſed to give them way to ſatisfie themſelves, to connive at their wickedneſſe that they might pillage the houſes of all thoſe that ſhould any way oppoſe his will and thereby ſa<g ref="char:EOLhyphen"/>tisfie themſelves. The third and laſt was, that if His Majeſty would not croſſe the Sea for his ſafety, he would be pleaſed to give way for the Iriſh Rebells to come over to aſſiſt his perſon. To their firſt demand His Majeſty anſwered that he would willingly undergoe and be equal ſharers in all their dangers, but as for his yeelding, ere he would ſee His 3. Kingdomes maſſacred, upon lawfull &amp; juſt conſiderations he was reſolved to comply with his both Houſes of Parliament, but wirh ſuch an exception as that there ſhould be a generall pardon granted to all, or
+<pb n="3" facs="tcp:156073:3"/>
+               <!-- PDF PAGE 92 -->at leaſt wiſe he would endeavour with his utmoſt power to procure the ſame, to their ſecond demand he anſwered, that for their loyalty to him in adventuring their lives and fortunes in his behalfe, it ſhould not be unthought of, if ought in him might yeeld requitall, yet would not he by no meanes conſent to the rifling and pillaging of any of his Subjects houſes without they were manifeſtly knowne to be Traytors to his Perſon, at their third and laſt de<g ref="char:EOLhyphen"/>mand, he ſeemed to be extraordinarily moved by reaſon of ſo unjuſt a Petition, therefore he gave to that a plaine and flat deniall, only for the ſafety of his perſon, his reſo<g ref="char:EOLhyphen"/>lution was to go to Wales to Loyd-loo Chaſtle afterwards if he found not that a ſufficient harbour, he would take to further conſideration, concerning croſſing the Sea, the Cavalliers at this being diſmayed partly through feare of future dangers, and partly to avoid my Lord of Eſſex his approach, many of them fled away and forſook his Majeſty, others more reſolutely bent, kept ſtill with his Perſon to<g ref="char:EOLhyphen"/>wards Wales, where 'tis reported his Majeſty intends to take habour. Likewiſe many of the Scots hearing of my Lord of Eſſex his intention came over to Dover Caſtle, with a deſire to preſent their ſervice unto his Excellency and their endeavours, for the aſſiſtance of his perſon, where they no ſooner landed, but that they heard beating of drums by certaine Cavalliers for the levying of men in his Majeſties ſervice againſt the Parliament, they deſirous to know further the Cavalliers intention, went to them un<g ref="char:EOLhyphen"/>der pretence of being asſiſtance for them, but finding their reſolutions to bee ſo wicked, neither agreeable to the Lawes of God, nor the laws of man, fell there upon them turning their faces about, ſo that the Cavalliers were greatly diſcomfited, and glad every man to run away, and ſhift for himſelfe.</p>
+            <p>Oxford Schollers in like manner had a great overthrow by the foure hundred Troopers ſent thither by the command of both the honourable Houſes of Parliament, to ſearch certaine
+<pb n="6" facs="tcp:156073:4"/>
+               <!-- PDF PAGE 93 -->Delinquents &amp; Cavalliers, and other ill-affected perſons which the Schollers there had harboured, for the Schollers before the ſaid Troopers arived thither were mighty unruly, beating the Towneſmen away, ſo that they were fame to fly for refuge, ſome to Abington, ſome to Tame, others to Botley leaving all their goods behind them, but at the comming thither of the ſaid Troopers they all returned and joyn'd forces together. The Schollers had no intellgence of then comming untill they were almoſt upon the skirts of the Towne paſt Shotover wood, then they ſuſpected their intentions, and cauſed the gates of every Colledge to be ſhut, but the Troopers no ſooner came over the bridge, but that they began to batter at Magdalen Colledg, and Magdalen Hall being the two firſt in their way, but firſt demanding for Doctor <hi>Fruen,</hi> being Preſident of the Colledge to have the gates opened, who the Schollers replied was out of town at Gloceſter, for he is Deane of that Cathe<g ref="char:EOLhyphen"/>drall, yet nevertheleſſe the gates were not opened for the preſent, till ſuch time that the Souldiers began to batter the Chappell windowes, whereof one windowe being at the Eaſt end of the Chappell of Darke worke which was valued at an hundred pound, which was beaten downe to peeces, with many other windowes of thirty pound price; Upon this aſſault the gates were opened and entrance was given, and there they found certaine Cavalliers in Schollars habits, who were knowne to be ſo by their Feathers, Buffe Coates, and other Warlik habits found in their Chambers.</p>
+            <p>Some nine or tenne of the Schollers there behaved them<g ref="char:EOLhyphen"/>ſelves very ſaucily towards the Souldiers, ſcoffing at them, and at the honourable Houſes of Parliament, eſpecially one <hi>Robinſon</hi> a Demy of that Colledge, hee with the reſt were taken Priſoners; they made ſearch for Ammunition but they found none, onely great ſtore of Plate, among which a piece was termed by the name of the Parliament pot (given it ſeemes by ſome of the Nobility at the laſt Parliament held there) which was valued to be worth threeſcore pound; all
+<pb n="7" facs="tcp:156073:4"/>
+               <!-- PDF PAGE 93 -->this while many of the Troopers were diſperſed to ſeverall Colledges, ſome to new Colledge, ſome to All-Soules, o<g ref="char:EOLhyphen"/>thers to Bailoll, and Saint <hi>Johns,</hi> they found ſome ſmall ſtore of Ammunition, which as it was thought was con<g ref="char:EOLhyphen"/>veyed thither by Biſhop <hi>Laud,</hi> for hee hath beene formerly of that Colledge. In this houſe likewiſe one <hi>Painter</hi> a Maſter of Arts was found with a Libell in his pocket, made againſt certaine men of that County that ſtood firmely affected for the Parliament, thoſe that went to ſearch Ieſus Colledge found no Ammunition there, onely the Doctor ſomewhat ſterne, and as they conceived by his diſcourſe no extraordinary well wiſher to the honourable Houſes of Parliament; this Colledge was not well fraught with Plate, all the ſtore they had was conveyed and hid in the Manſiples houſe at Saint <hi>Giles</hi> Pa<g ref="char:EOLhyphen"/>riſh, who told the Souldiers at their approaching unto his houſe that they were all knaves, for which hee was faine to fly for his paines. Alſo one <hi>Edwards</hi> a North-wales man, fellow of this Houſe was taken priſoner for the abuſefull termes he ſpoke in the behalfe of a Cavallier that was a friend of his</p>
+            <p>Some of the moſt ignorant Troopers went to the Schooles taking it for a Colledge, and there lay ſearching and tumb<g ref="char:EOLhyphen"/>ling too and fro of the Library Bookes; but all this while the chiefe of the Cavalliers were ſheltred in Chriſt Church, where they had above the gate laid heapes of ſtones at their entring for to fall on the Troopers heads. Some others ſtood in ſtudy windowes with Piſtolls in their hands, but our men having notice by the Citizens of all that they intended, went in at the back Gate oppoſite to Oriall Colledge, and through Canterbury quadrangle, ſo that ſome of the Schollers and Ca<g ref="char:EOLhyphen"/>valliers haſtning to fly away, running through the other gate were cruelly wounded in their owne Traps, and taken by our Souldiers thereby, to the number of two hundred, whereof foureſcore are already ſent to London, and impriſoned in ſeve<g ref="char:EOLhyphen"/>rall places, the reſt are in hand hourely expected to come;
+<pb n="6" facs="tcp:156073:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 94 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:156073:5"/>
+               <!-- PDF PAGE 94 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:156073:6"/>
+               <!-- PDF PAGE 95 -->many places of the Colledges are extreamely peſtred by our Souldiers, by reaſon of the Schollers obſtinacy, eſpecially their Libraries and windowes, and many of the Caval<g ref="char:EOLhyphen"/>liers are ſtill lurking there in by places as well as the Colledges, which makes our Souldiers ſo long billet there with<g ref="char:EOLhyphen"/>out returning.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
